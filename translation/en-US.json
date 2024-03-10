@@ -1,0 +1,14 @@
+{
+  "first_Name":"First name",
+  "last_Name":"Last name",
+  "age":"Age",
+  "meals": "Dishes",
+  "salads": "Salads",
+  "drinks": "Drinks",
+  "fast_food": "Fast food",
+  "tittle": "We are very glad that you chose\n Our restaurant, thank you for your visit!",
+  "cost": "Price",
+  "more": "More"
+
+
+}
